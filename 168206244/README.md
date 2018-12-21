@@ -15,3 +15,5 @@ sum.py 求和算法
 dkstl.py 狄克斯特拉算法
 
 huangangqin.py 换钢琴算法
+
+thief.py 考试题
